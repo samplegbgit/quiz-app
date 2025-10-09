@@ -7,3 +7,9 @@
 - Added quiz logic
 - User selects answer → checks correctness
 - Score shown at the end
+
+## Day 3
+- Added LocalStorage for saving last score
+- Added Restart button
+- Final UI polish
+
